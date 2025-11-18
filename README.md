@@ -51,4 +51,4 @@ The **XGBoost classifier** emerged as the best-performing model:
 
 1.  **Deploy the Predictive Model:** Integrate the XGBoost model into the lead management system to score clients *before* calling. Focus efforts only on the high-probability segment.
 2.  **Quality Over Quantity:** Train agents to focus on **driving engagement and longer conversations** rather than maximizing call volume. Implement better call scripts to achieve this.
-3.  **Implement a Call Policy:** Analysis suggests diminishing returns after multiple calls to the same client. A policy limiting contacts per client could improve overall team efficiency.
+3.  **Implement a Call Policy:** Analysis suggests diminishing returns after multiple calls to the same client. A policy limiting the number of contacts per client could improve overall team efficiency.
