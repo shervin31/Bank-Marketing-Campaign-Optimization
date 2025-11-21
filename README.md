@@ -1,4 +1,4 @@
-# Bank Marketing Campaign Optimization: Predictive Analytics for Term Deposit Subscription
+# Bank Marketing Optimization: Predictive Analytics for Term Deposit Subscription
 
 ## 📖 Project Overview
 
